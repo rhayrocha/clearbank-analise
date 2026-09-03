@@ -1,0 +1,22 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+1,2026-01-05,CLI001,credito,3500.00,Salário janeiro,salario
+2,2026-01-12,CLI002,debito,180.50,Supermercado,compra
+3,2026-01-15,CLI004,debito,450.00,Manutenção carro,servico
+4,2026-01-22,CLI005,credito,12500.00,Venda de ativo,investimento
+5,2026-02-02,CLI001,debito,320.00,Conta de energia,conta
+6,2026-02-14,CLI003,credito,15000.00,Transferência suspeita,transferencia
+7,2026-02-18,CLI002,debito,85.00,Farmácia,saude
+8,2026-02-25,CLI006,debito,1200.00,Aluguel,moradia
+9,2026-03-01,CLI001,credito,3500.00,Salário março,salario
+10,2026-03-08,CLI007,debito,250.00,Restaurante,alimentacao
+11,2026-03-15,CLI002,debito,99.90,Streaming,assinatura
+12,2026-03-28,CLI008,debito,410.00,Combustível,transporte
+13,2026-04-02,CLI001,credito,4000.00,Adiantamento,salario
+14,2026-04-10,CLI009,debito,150.00,Livraria,educacao
+15,2026-04-18,CLI003,debito,800.00,Equipamento de rede,ti
+16,2026-01-20,CLI001,debito,abc,Erro texto no valor,compra
+17,2026-02-03,,debito,200.00,Cliente vazio,transferencia
+,2026-02-10,CLI002,credito,500.00,ID vazio,deposito
+19,10-03-2026,CLI003,debito,120.00,Data formato BR,compra
+20,2026-03-22,CLI004,outro,300.00,Tipo inválido,ajuste
+21,2026-04-05,CLI005,debito,-50.00,Valor negativo,estorno
